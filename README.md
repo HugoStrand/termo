@@ -1,3 +1,5 @@
-# termodynamik
+# Termodynamik
 
-https://nbviewer.jupyter.org/github/HugoStrand/termodynamik/blob/master/Föreläsning1.ipynb
+Hugo Strand (2020)
+
+[Föreläsning 1](http://bit.ly/termodynamik1)
